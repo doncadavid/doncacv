@@ -3,6 +3,8 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 
 @import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
+@import url("https://use.typekit.net/asr2lkc.css");
+
 
 
 
@@ -57,9 +59,10 @@ body {
 }
 
 .fancy-font {
-	font-family: Ballet
+	font-family: "Ballet"
 }
 
 .grunge-font {
-	
+	font-family: "veneer-two";
+	color: #019200;
 }
